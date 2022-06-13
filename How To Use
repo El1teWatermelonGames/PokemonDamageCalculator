@@ -1,0 +1,11 @@
+User level can be a value between 1 and 100
+Move Power can be from 10 to 250
+Relevant Attack Stat is the attack for physical moves and special attack for special moves
+Relevant Defense Stat is the defense for physical moves and special defense for special moves
+User status has effects for if the pokemon is burned and various situations including certain abilities and moves
+Target Effectiveness is how effective the user's move because of different targets
+Weather is how the weather affects the moves
+STAB Applies when the user uses a move that has the same type as the user
+Move effectiveness is how effective the move is against other types, you can use a type advantage chart for this info
+
+Then hit run to calculate in order top to bottom minimum damage no crit, max damage no crit, min damage crit and max damage crit
