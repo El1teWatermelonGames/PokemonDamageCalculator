@@ -1,0 +1,10 @@
+C:\Users\Henry Gove\source\repos\Pokemon Damage Calculator\bin\Debug\Pokemon Damage Calculator.exe.config
+C:\Users\Henry Gove\source\repos\Pokemon Damage Calculator\bin\Debug\Pokemon Damage Calculator.exe
+C:\Users\Henry Gove\source\repos\Pokemon Damage Calculator\bin\Debug\Pokemon Damage Calculator.pdb
+C:\Users\Henry Gove\source\repos\Pokemon Damage Calculator\obj\Debug\Pokemon Damage Calculator.csproj.AssemblyReference.cache
+C:\Users\Henry Gove\source\repos\Pokemon Damage Calculator\obj\Debug\Pokemon_Damage_Calculator.Form1.resources
+C:\Users\Henry Gove\source\repos\Pokemon Damage Calculator\obj\Debug\Pokemon_Damage_Calculator.Properties.Resources.resources
+C:\Users\Henry Gove\source\repos\Pokemon Damage Calculator\obj\Debug\Pokemon Damage Calculator.csproj.GenerateResource.cache
+C:\Users\Henry Gove\source\repos\Pokemon Damage Calculator\obj\Debug\Pokemon Damage Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Henry Gove\source\repos\Pokemon Damage Calculator\obj\Debug\Pokemon Damage Calculator.exe
+C:\Users\Henry Gove\source\repos\Pokemon Damage Calculator\obj\Debug\Pokemon Damage Calculator.pdb
